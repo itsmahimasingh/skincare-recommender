@@ -1,6 +1,6 @@
 # Skincare Recommender
 
-**Live app:** LIVE-LINK-HERE
+**Live app:** **Live app:** [Open the app](https://skincare-recommender-ai.streamlit.app)
 
 A web app that recommends skincare products for your skin type and skin concerns, explains *why* each product was picked, builds a full morning and night routine, and checks any product from its ingredient list.
 
